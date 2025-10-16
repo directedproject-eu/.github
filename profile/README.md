@@ -4,7 +4,7 @@ We aim to reduce vulnerability to extreme weather events and foster disaster-res
 
 As part of the [DIRECTED project](https://directedproject.eu/) the Data Fabric Service Platform is built to support and demonstrate the interoperability use cases of our four Real World Labs.
 
-This GitHub organization contains the source code repositories of the software components the Data Fabric is made of:
+This GitHub organization contains the source code repositories of the software components the Data Fabric is made of. The core repositories to dive into the open source solution are the following:
 - User interface:
    - https://github.com/directedproject-eu/directed-pioneer
 - Processing backend:
