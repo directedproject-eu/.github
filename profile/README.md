@@ -8,6 +8,7 @@ This GitHub organization contains the source code repositories of the software c
 - User interface:
    - https://github.com/directedproject-eu/directed-pioneer
 - Processing backend:
+   - https://github.com/directedproject-eu/pygeoapi_k8s-manager
    - https://github.com/directedproject-eu/pygeoapi_processes
    - https://github.com/directedproject-eu/pygeoapi-mca-process
 - Data ingestion:
