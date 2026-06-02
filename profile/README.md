@@ -18,7 +18,8 @@ This GitHub organization contains the source code repositories of the software c
 - Kubernetes deployment:
    - https://github.com/directedproject-eu/data-fabric
 
-The Data Fabric can be accessed online via https://directed.dev.52north.org/.
+The Data Fabric can be accessed online via https://directed.dev.52north.org/.  
+In addition, a user and developer manual is available via https://directed-eu.gitbook.io/data-fabric-manual.
 
 **Additional resources**:
 
