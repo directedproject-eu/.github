@@ -10,7 +10,6 @@ This GitHub organization contains the source code repositories of the software c
 - Processing backend:
    - https://github.com/directedproject-eu/pygeoapi_k8s-manager
    - https://github.com/directedproject-eu/pygeoapi-mca-process
-   - https://github.com/directedproject-eu/pygeoapi_processes
 - Data ingestion:
    - https://github.com/directedproject-eu/dmi-ingestor
    - https://github.com/directedproject-eu/geosphere-ingestor
